@@ -1,5 +1,5 @@
 # complete_site
-
+This website was created using HTML, CSS and JavaScript. The code was written entirely by Lauren, however the information was compiled from the various perspectives of other SI 339 students.
 Pets Icon 
 <a href="https://www.flaticon.com/free-icons/pet" title="pet icons">Pet icons created by Freepik - Flaticon</a>
 
